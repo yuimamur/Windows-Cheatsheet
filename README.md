@@ -1,8 +1,6 @@
 # Windows-Cheatsheet
 
 ## Privilege Escalation
-Reference: https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
-Run this script: https://github.com/M4ximuss/Powerless/blob/master/Powerless.bat
 
 ### Basics
 
